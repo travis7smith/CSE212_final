@@ -1,4 +1,4 @@
 #Jekyll configuration
 theme: jekyll-theme-hacker
-include: [1-topic.md, 2-topci.md, 3-topic.md]
-repository: "travis7smith/CSE212_final"
+#include: [1-topic.md, 2-topci.md, 3-topic.md]
+#repository: "travis7smith/CSE212_final"
