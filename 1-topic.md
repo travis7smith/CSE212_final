@@ -3,7 +3,7 @@
 ## Queue
 Queue is a linear data structure that stores items in First In First Out (FIFO) manner. With a queue the least recently added item is removed first. A good example of queue is any queue of consumers for a resource where the consumer that came first is served first. Or another example we are all familiar with is queuing songs to listen to.
 
-![Image of Queue](./https://github.com/travis7smith/CSE212_final/blob/main/Picture%20Files/queue.png)
+![Queue Image](https://github.com/travis7smith/CSE212_final/blob/main/Picture%20Files/queue.png?raw=true)
 
 ### Input
 ```sh
@@ -42,4 +42,4 @@ Queue after removing elements
 ```
 * Problem to solve (TODO)
 
-### [Link to Welcome Page](https://github.com/travis7smith/CSE212_final/0-welcome.md)
+### [Link to Welcome Page](https://github.com/travis7smith/CSE212_final/blob/main/0-welcome.md)
