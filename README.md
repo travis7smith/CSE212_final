@@ -1,7 +1,5 @@
 <!-- Provide an introduction to the student as well as links to three modules. It is important that you provide your name, class, section, and email address on this page.-->
 
-theme: jekyll-theme-hacker
-
 # Final Project
 #### This will be a tutorial for three data structures. These data structures are queue, set, and tree. I will include Python code, diagrams, and tables. The goal is to teach each data structure to a student that already knows how to program in Python.
 
