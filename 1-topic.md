@@ -1,5 +1,7 @@
 <!-- Provide the tutorial for the first data structure topic. You should include a link back to the welcome page. -->
 
+theme: jekyll-theme-hacker
+
 ## Queue
 Queue is a linear data structure that stores items in First In First Out (FIFO) manner. With a queue the least recently added item is removed first. A good example of queue is any queue of consumers for a resource where the consumer that came first is served first. Or another example we are all familiar with is queuing songs to listen to.
 
