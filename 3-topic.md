@@ -54,4 +54,4 @@ When the above code is executed, it pr
 ```
 * Problem to solve (TODO)
 
-### [Link to Welcome Page](https://travis7smith.github.io/CSE212_final/)
+### [Link to Welcome Page](https://travis7smith.github.io/CSE212_final/0-welcome.html)
