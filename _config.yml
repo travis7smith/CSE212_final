@@ -1,8 +1,4 @@
 #Jekyll configuration
-name: Travis's Final
-description: Final for CSE212
-url: https://travis7smith.github.io/CSE212_final/
-markdown: kramdown
-#theme: jekyll-theme-hacker
-#include: 1-topic.md, 2-topci.md, 3-topic.md
-#repository: "travis7smith/CSE212_final"
+theme: jekyll-theme-hacker
+include: [1-topic.md, 2-topci.md, 3-topic.md]
+repository: "travis7smith/CSE212_final"
