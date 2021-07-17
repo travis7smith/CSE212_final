@@ -79,6 +79,7 @@ root.PrintTree()
 | Searching | O(h) |
 | Insertion | O(h) |
 | Deletion | O(h) |
+
 h being the height og the tree
 
 ## Problem to solve
