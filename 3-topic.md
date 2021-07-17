@@ -65,7 +65,7 @@ root.PrintTree()
 14
 ```
 ## Pros of using a Set
-- Best for optimize for efficient searching and updates
+- Best for optimizing for efficient searching and updates
 - Elements are sorted
 
 ## Cons of using a Set
@@ -80,7 +80,7 @@ root.PrintTree()
 | Insertion | O(h) |
 | Deletion | O(h) |
 
-h being the height og the tree
+h being the height of the tree
 
 ## Problem to solve
 Create code so that the output is the following:
