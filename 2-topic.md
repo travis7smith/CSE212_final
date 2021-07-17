@@ -42,6 +42,7 @@ print(my_set)
 - Data inputted must be immuatable, because once added they cannot be changed
 
 ## Efficiency:
+
 | Operation | Average Case |
 | :--- | ---: |
 | Copy | O(n) |
