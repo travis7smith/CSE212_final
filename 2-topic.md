@@ -35,7 +35,7 @@ print(my_set)
 ```
 ## Pros of using a Set:
 - Efficient in removing duplicates
-- Good with simple math otherations as well as intersections and unions
+- Good with simple math operations as well as intersections and unions
 
 ## Cons of using a Set:
 - A set is unordered
