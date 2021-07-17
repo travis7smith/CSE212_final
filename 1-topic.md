@@ -67,7 +67,7 @@ Queue after removing elements
 
 | Operation | Average Case |
 | :--- | ---: |
-| Loopup | O(n) |
+| Lookup | O(n) |
 | enqueue/append | O(1) |
 | dequeue/pop | O(1) |
 | peek | O(1) |
