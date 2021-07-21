@@ -12,3 +12,5 @@ Name: Travis Smith
 Class: CSE212  
 Section: 04  
 Email: smi16037@byui.edu
+
+### [Sources](https://travis7smith.github.io/CSE212_final/sources.html)
