@@ -12,10 +12,8 @@ __What is a set?__ Sets are used to store multiple items in a single variable. S
 
 ## Set's Operations:
 - __add():__ Adds an element to the set
-- __clear():__ Removes all the elements from the set
-- __copy():__ Returns a copy of the set
-- __pop():__ Removes an element from the set
 - __remove():__ Removes the specified element
+- __length():__ States the length of the set
 
 ## Example of a Set in Python
 ### Input
@@ -45,15 +43,9 @@ print(my_set)
 
 | Operation | Average Case |
 | :--- | ---: |
-| Copy | O(n) |
-| Append | O(1) |
-| Pop last | O(1) |
-| Pop intermediate | O(n) |
-| Insert | O(n) |
-| Delete | O(n) |
+| Add | O(1) |
+| Remove | O(1) |
 | Length | O(1) |
-| Get item | O(1) |
-| Set item | O(1) |
 
 ## Problem to solve
 ```sh
