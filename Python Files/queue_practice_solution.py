@@ -10,7 +10,7 @@ print("Initial queue")
 print(queue)
 
 # Append and pop as needed to achieve desired end
-queue.pop(1)
+queue.pop(0)
 queue.append('5')
 queue.append('fish')
  
